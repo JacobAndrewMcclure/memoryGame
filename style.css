@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+}
+.upperRow {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}/*
+.upperRow img {
+    visibility: hidden;
+}*/
+.upperRow div {
+    background-color: black;
+}
+.lowerRow {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+/*
+.lowerRow img {
+    visibility: hidden;
+}*/
+.lowerRow div {
+    background-color: black;
+}
+.memoryImg {
+    visibility: hidden;
+}
+img {
+    width: 200px;
+    height: 200px;
+}
+.userScoreBoard {
+    text-align: center;
+}
