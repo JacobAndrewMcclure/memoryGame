@@ -5,10 +5,7 @@ h1 {
     display: flex;
     justify-content: space-around;
     padding: 20px;
-}/*
-.upperRow img {
-    visibility: hidden;
-}*/
+}
 .upperRow div {
     background-color: black;
 }
@@ -17,12 +14,11 @@ h1 {
     justify-content: space-around;
     padding: 20px;
 }
-/*
-.lowerRow img {
-    visibility: hidden;
-}*/
 .lowerRow div {
     background-color: black;
+}
+#memoryWord {
+    display: none;
 }
 .memoryImg {
     visibility: hidden;
